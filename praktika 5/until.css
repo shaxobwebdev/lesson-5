@@ -1,0 +1,25 @@
+.in-block {
+  display: inline-block;
+}
+
+a {
+  color: blue;
+  text-decoration: none;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.br {
+  border-radius: 12px;
+}
+
+.active {
+  background-color: #08090b;
+  color: white;
+  padding: 9px 12px;
+  border-radius: 6px;
+}
